@@ -1,0 +1,5 @@
+el modelo seleccionado para entrenar y posteriormente hacer predicciones es :
+https://huggingface.co/distilroberta-base
+
+el dataset utilizado para entrenar este modelo es :
+https://huggingface.co/datasets/glue/viewer/mrpc/train
